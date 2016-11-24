@@ -147,7 +147,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="event.h" />
+    <ClInclude Include="exArray.h" />
+    <ClInclude Include="frame.h" />
     <ClInclude Include="game.h" />
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
